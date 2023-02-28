@@ -1,0 +1,28 @@
+Angular
+-------
+
+NPM-Node package module
+
+install
+
+     -npm i  -g  @angular/cli@latest       ng v
+
+     project creation
+
+         -ng new projectname
+
+         running command
+           
+           -ng serve --open      ng serve --open
+
+
+           angular technologies
+
+        -HTML
+        -CSS
+        -TYPESCRIPT   --> strictly typed
+
+        number:any
+
+        transpiling - browser convert TS to JS while running
+
