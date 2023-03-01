@@ -26,3 +26,4 @@ install
 
         transpiling - browser convert TS to JS while running
 
+npm i
